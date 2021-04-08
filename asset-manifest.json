@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactApp_wheatherapp/static/css/main.48bb5e2f.chunk.css",
+    "main.js": "/ReactApp_wheatherapp/static/js/main.842a990e.chunk.js",
+    "main.js.map": "/ReactApp_wheatherapp/static/js/main.842a990e.chunk.js.map",
+    "runtime-main.js": "/ReactApp_wheatherapp/static/js/runtime-main.f912207e.js",
+    "runtime-main.js.map": "/ReactApp_wheatherapp/static/js/runtime-main.f912207e.js.map",
+    "static/js/2.9bedfc22.chunk.js": "/ReactApp_wheatherapp/static/js/2.9bedfc22.chunk.js",
+    "static/js/2.9bedfc22.chunk.js.map": "/ReactApp_wheatherapp/static/js/2.9bedfc22.chunk.js.map",
+    "static/js/3.d4de59ef.chunk.js": "/ReactApp_wheatherapp/static/js/3.d4de59ef.chunk.js",
+    "static/js/3.d4de59ef.chunk.js.map": "/ReactApp_wheatherapp/static/js/3.d4de59ef.chunk.js.map",
+    "index.html": "/ReactApp_wheatherapp/index.html",
+    "static/css/main.48bb5e2f.chunk.css.map": "/ReactApp_wheatherapp/static/css/main.48bb5e2f.chunk.css.map",
+    "static/js/2.9bedfc22.chunk.js.LICENSE.txt": "/ReactApp_wheatherapp/static/js/2.9bedfc22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f912207e.js",
+    "static/js/2.9bedfc22.chunk.js",
+    "static/css/main.48bb5e2f.chunk.css",
+    "static/js/main.842a990e.chunk.js"
+  ]
+}
