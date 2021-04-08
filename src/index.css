@@ -21,7 +21,7 @@ form input {
     border-radius: 50px;
     border-bottom: 1px solid #eee;
     background-color: #fff;
-    text-transform: uppercase;
+    text-transform: capitalize;
 }
 p {
     text-transform: capitalize;
